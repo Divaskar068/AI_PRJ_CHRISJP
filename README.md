@@ -13,3 +13,7 @@ HOW TO RUN?
 
 After you get the CV_score check pycharm for the paresed skills from CV 
 Continued in Colab folder.....PART-2
+
+Error:(NOTE:Dont open and change the Applicant.csv file)
+If any changes to the Applicant.csv file inside the CV_Analyser folder then the new data will get appended on the right side instead of new row 
+#i dont know how to solve this BUTTT.....I uploaded a solo Applicant.csv outside the CV_Analyser folder which if replaced fixes the issue.
